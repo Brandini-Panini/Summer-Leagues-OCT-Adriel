@@ -5,9 +5,9 @@
   "author": "Brandini Panini",
   "cover": "https://imgur.com/a/Xzptpu5",
   "chapters": {
-    "<1>": {
-      "title": "<Graced>",
-      "volume": "<1>",
+    "1": {
+      "title": "Graced",
+      "volume": "1",
       "groups": {
         "Graced": "/proxy/api/imgur/chapter/9cn68Pt/"
       },
