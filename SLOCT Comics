@@ -1,15 +1,15 @@
 {
-  "title": "<Summer Leagues OCT: Adriel>",
-  "description": "<Adriel's Summer Leagues OCT run.>",
-  "artist": "<Brandini Panini>",
-  "author": "<Brandini Panini>",
-  "cover": "<https://cdn.discordapp.com/attachments/717170025886384218/1211005234218930236/Cover.png?ex=65ec9f83&is=65da2a83&hm=371694be6c0acb82cf8b1d83355776d055c5a0df792eb0f105d18c5c9ee1fbf5&>",
+  "title": "Summer Leagues OCT: Adriel",
+  "description": "Adriel's Summer Leagues OCT run.",
+  "artist": "Brandini Panini",
+  "author": "Brandini Panini",
+  "cover": "https://imgur.com/a/Xzptpu5",
   "chapters": {
     "<1>": {
       "title": "<Graced>",
       "volume": "<1>",
       "groups": {
-        "<Graced>": "/proxy/api/imgur/chapter/<9cn68Pt>/"
+        "Graced": "/proxy/api/imgur/chapter/9cn68Pt/"
       },
       "last_updated": "1616368746"
     }
