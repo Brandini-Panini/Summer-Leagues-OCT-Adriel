@@ -10,15 +10,15 @@
       "volume": "1",
       "last_updated": "1616368746",
       "groups": {
-        "Graced": "/proxy/api/imgur/chapter/9cn68Pt/"
+        "Audition": "/proxy/api/imgur/chapter/9cn68Pt/"
       }
     },
     "2": {
-      "title": "2",
-      "volume": "1",
+      "title": "Family",
+      "volume": "2",
       "last_updated": "1719109198",
       "groups": {
-        "Family": [
+        "Round 1": [
           "https://imgur.com/a/XDaw2NF"
         ]
       }
